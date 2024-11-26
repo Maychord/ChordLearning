@@ -1,2 +1,0 @@
-/bin/bash: /Users/chunz/Documents/ChordLearning/auto_commit_push.sh: Operation not permitted
-/bin/bash: /Users/chunz/Documents/ChordLearning/auto_commit_push.sh: Operation not permitted
